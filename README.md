@@ -109,7 +109,7 @@ Execute the program
 7.Mentoring-AD1(ECA051-AD)-Niha K<br>
       
    </body>
-</html>
+</html>#
              <td>-</td>
  </tr>
   
@@ -126,3 +126,7 @@ Execute the program
 ![OUTPUT](./time2.png)
 
 ![OUTPUT](./time3.png)
+
+# Result
+
+The above code is done to display your timetable in html webpage page.
