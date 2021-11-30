@@ -121,4 +121,6 @@ Execute the program
 ~~~
 # OUPUT
 
-![OUTPUT](./TIMETABLE/logo.png)
+![OUTPUT](./time.png)
+
+![OUTPUT](./time2.png)
